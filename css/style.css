@@ -1,0 +1,26 @@
+body {
+  background-image: url(/images/default.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: rgb(0, 0, 0);
+  background-attachment: fixed;
+  height: 100vh;
+}
+
+#displayQuote {
+  margin-top: 15%;
+  font-size: 1.5em;
+}
+
+footer {
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  width: 100%;
+  background: #ffffff;
+}
+
+#copyright {
+  margin-right: 5px;
+}
